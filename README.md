@@ -2,6 +2,8 @@
 
 This is my personal `README.md` template. This template contains all possible chapters that I could need during a school or personal project.
 
+![Project Image](https://i.imgur.com/ZALRBjH.png)
+
 ## Table of Contents 🗃
 * [To Do](#to-do-)
 * [Description](#description-)
