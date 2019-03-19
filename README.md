@@ -1,8 +1,9 @@
 # README Template ⚙️
 
-This is my personal `README.md` template. This template contains all possible chapters that I could need during a school or personal project.
+This is my personal `README.md` template. This template contains all possible chapters that I could need during a school or personal project. Chapters can be moved & removed as needed.
 
 ![Project Image](https://i.imgur.com/ZALRBjH.png)
+> Image description
 
 ## Table of Contents 🗃
 * [To Do](#to-do-)
@@ -45,12 +46,8 @@ I made use of the following API for this project:
 ## Research 🕵🏻
 Here I explain the research for this project.
 
-*Here goes the research of a project.*
-
 ## How It Works 🛠️
 Here I explain the core features of this project.
-
-*Here come the core features of a project.*
 
 ## Sources 📚
 This is a list of all the sources I used during this project:
