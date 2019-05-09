@@ -12,6 +12,8 @@ This is my personal `README.md` template. This template contains all possible ch
   * [Packages and Technologies](#packages-and-technologies)
 * [API](#api-)
 * [Research](#research-)
+* [Concept](#concept-)
+* [UI Design](#ui-design-)
 * [How It Works](#how-it-works-️)
 * [Sources](#sources-)
   * [Honourable Mentions](#honourable-mentions)
@@ -45,6 +47,12 @@ I made use of the following API for this project:
 
 ## Research 🕵🏻
 Here I explain the research for this project.
+
+## Concept 💡
+Here I explain the concept for this project.
+
+## UI Design 🎨
+Here I explain the UI design process for this project.
 
 ## How It Works 🛠️
 Here I explain the core features of this project.
